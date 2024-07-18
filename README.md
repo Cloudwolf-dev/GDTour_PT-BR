@@ -1,22 +1,27 @@
+# Tradução do Godot Tours
+
+Esse projeto é um fork do Godot Tours com intuito de traduzir o projeto para o Português-Brasileiro(PT-BR).
+
 # Godot Tours
 
-Godot Tours is a framework to create interactive, step-by-step tutorials in the Godot editor.
+Godot Tours é um framework para criar tutoriais interativos e passo-a-passo no editor do Godot.
 
 ![Screenshot of the Godot editor, showing the blue welcome window of a GOdot interactive tour](godot-tour-screenshot.webp)
 
-It is a technology we use at GDQuest to create guided tours. This technology is free and open-source so you are welcome to study and use it.
+Essa é uma tecnologia que usamos no GDQuest para criar tour guiados. Essa tecnologia é gratuita e open-source então você é bem-vindo a estuda-la e usa-la.
 
-**Minimum required Godot version: Godot 4.2 standard** (*not* the .NET edition)
+**Versão minima do Godot requerida: Godot 4.2 padrão** (*não* a edição .NET)
 
-**Warning: Godot Tours is an experimental project.** While it appears to work fairly reliably in Godot 4.2 stable, we are still refining the API as we're producing interactive tours. Please note that we may make breaking changes to the tour API with new releases to polish it.
+**Aviso: Godot Tours é um projeto experimental.** Apesar de parecer funcionar de maneira confiável no Godot 4.2 estável, nós ainda estamos refinando a API em quanto produzimos nossos tours interativos. Porfavor, note que talvez possamos fazer mudanças que quebrem a API do Tour em novas versão para que possamos melhora-la. 
 
-## Support and contributions
+## Suporte e Contribuições
 
-Given our limited resources, and the amount of work that this project represents, it is currently provided as-is: we do not offer individual or community support on this.
+Devido aos nosso recursos limitados e a quantidade de trabalho que esse projeto representa, está atualmente 
+Given our limited resources, and the amount of work that this project represents, atualmente é fornecido como está: nós não oferecemos suporte inidividual ou de comunidade para esse projeto.
 
-If you wish to contribute, please get in touch first to ensure that your contribution aligns with the project goals, and please note that our availability to review contributions is limited.
+Se você deseja contribuir, porfavor nos contato primeiro para assegurar que sua contribuição alinha com os objetivos do projeto, e porfavor note que nossa disponibilidade para revisar contribuições são limitadas.
 
-If it's something we also need or plan to work on, we'll likely be able to review reasonably fast. Otherwise, we can't promise that we'll have time to review or that we'll merge your work. 
+Se é algo que nós precisamos ou planejamos trabalhar, nós provavelmente seremos capazes de revisar razoamente rápido. Caso contrário, nós não prometemos que iremos ter tempo para revisar ou que iremos mesclar seu trabalho.
 
 ## Creating tours
 
